@@ -2,7 +2,8 @@
 
 Prototype of a food-sharing app that allows food-donors to donate surplus food to donees who are in need 💙
 
-Develoed using [Flutter](https://flutter.dev/)🦋
+- Developed using [Flutter](https://flutter.dev/)🦋
+- Checkout Figma prototype walkthrough for [donor](https://www.figma.com/proto/hWsSYF6jdiFEqugMxAMVj9/WeFood-(Bagi-Pangan-2.0)?node-id=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=176%3A68&show-proto-sidebar=1) page and [donee](https://www.figma.com/proto/hWsSYF6jdiFEqugMxAMVj9/WeFood-(Bagi-Pangan-2.0)?node-id=72%3A74&scaling=scale-down&page-id=71%3A18&starting-point-node-id=72%3A446) page
 
 ## Vision & Mission
 
