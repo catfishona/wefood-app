@@ -2,7 +2,7 @@
 
 Prototype of a food-sharing app that allows food-donors to donate surplus food to donees who are in need 💙
 
-Developed using (Flutter)[https://flutter.dev/]🦋
+Develoed using [Flutter](https://flutter.dev/)🦋
 
 ## Vision & Mission
 
