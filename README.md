@@ -2,6 +2,8 @@
 
 Prototype of a food-sharing app that allows food-donors to donate surplus food to donees who are in need 💙
 
+Developed using (Flutter)[https://flutter.dev/]🦋
+
 ## Vision & Mission
 
 We aim to provide a platform that directly connects food-donees and food-donors, with the end-goal of alleviating food-hunger and food-waste issues in Indonesia 🌏
